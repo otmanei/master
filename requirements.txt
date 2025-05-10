@@ -1,0 +1,8 @@
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+diffusers==0.25.0
+transformers==4.36.0
+accelerate==0.25.0
+safetensors==0.4.0
+xformers==0.0.23  # Optional, for memory-efficient attention
